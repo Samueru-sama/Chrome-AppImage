@@ -13,7 +13,7 @@ export STRACE_FLAGS='google.com --no-sandbox'
 
 # Deploy dependencies
 quick-sharun \
-	./AppDir/bin/*
+	./AppDir/bin/* \
 	/usr/lib/libcloudproviders* \
 	/usr/lib/libgtk-3.so*
 
