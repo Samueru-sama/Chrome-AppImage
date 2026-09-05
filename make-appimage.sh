@@ -26,3 +26,4 @@ quick-sharun --make-appimage
 # having issues running in the CI use --simple-test instead
 quick-sharun --test ./dist/*.AppImage --no-sandbox
 
+chmod 755 ./
