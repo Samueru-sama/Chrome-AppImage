@@ -12,9 +12,10 @@
 </p>
 
 
-| Latest Stable Release | Upstream URL |
-| :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/Chrome-AppImage/releases/latest) | [Click here](https://www.google.com/chrome/) |
+| Architecture | Latest Stable Release | Upstream URL |
+| :---: | :---: | :---: |
+| x86_64 (64-bit Intel/AMD) | [Download](https://github.com/pkgforge-dev/Chrome-AppImage/releases/latest/download/Google_Chrome-154.0.8037.92-anylinux-x86_64.AppImage) | [Click here](https://www.google.com/chrome/) |
+| aarch64 (64-bit ARM) | [Download](https://github.com/pkgforge-dev/Chrome-AppImage/releases/latest/download/Google_Chrome-154.0.8037.92-anylinux-aarch64.AppImage) | [Click here](https://www.google.com/chrome/) |
 
 Improved AppImage of Google Chrome, **independent of the host libc** making it able to work on very very old distros as well as musl-libc distros like alpine linux.
 
